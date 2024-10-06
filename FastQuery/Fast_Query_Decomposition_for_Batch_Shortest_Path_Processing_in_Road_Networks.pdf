@@ -23566,3 +23566,490 @@ trailer
 startxref
 1958862
 %%EOF
+4 0 obj
+<< /IEEE#20Article#20ID (9101781) /IEEE#20Issue#20ID (9101180) /Meeting#20Starting#20Date
+(20 April 2020) /Meeting#20Ending#20Date (24 April 2020) /Title (Fast Query Decomposition for Batch Shortest Path Processing in Road Networks)
+/CreationDate (D:20200414180307Z00'00') /IEEE#20Publication#20ID (9093725)
+/Subject (2020 IEEE 36th International Conference on Data Engineering \(ICDE\);2020; ; ;10.1109/ICDE48307.2020.00107)
+/ModDate (D:20241002191109Z00'00') /Producer (macOS Version 14.6.1 \(Build 23G93\) Quartz PDFContext, AppendMode 1.1)
+>>
+endobj
+7 0 obj
+<< /Annots 850 0 R /Type /Page /Thumb 43 0 R /MediaBox [ 0 0 612 792 ] /CropBox
+[ 0 0 612 792 ] /Parent 5 0 R /Resources << /Font << /T1_6 38 0 R /T1_7 41 0 R
+/Xi0 40 0 R /F10 42 0 R /T1_0 39 0 R /T1_1 34 0 R /T1_2 36 0 R /T1_3 33 0 R
+/T1_4 35 0 R /T1_5 37 0 R >> /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI
+] /ExtGState << /GS1 31 0 R >> /XObject << /Xi1 32 0 R >> >> /Rotate 0 /Contents
+[ 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R 24 0 R 25 0 R 26 0 R 27 0 R 28 0 R 29 0 R
+30 0 R ] >>
+endobj
+8 0 obj
+<< /Annots 893 0 R /Type /Page /Thumb 49 0 R /MediaBox [ 0 0 612 792 ] /CropBox
+[ 0 0 612 792 ] /Parent 5 0 R /Resources << /Font << /Xi2 40 0 R /T1_0 39 0 R
+/T1_1 34 0 R /T1_2 41 0 R /T1_3 37 0 R /F6 42 0 R >> /ExtGState << /GS1 31 0 R
+>> /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Contents
+[ 44 0 R 45 0 R 46 0 R 47 0 R 48 0 R ] >>
+endobj
+9 0 obj
+<< /Annots 924 0 R /Type /Page /Thumb 60 0 R /MediaBox [ 0 0 612 792 ] /CropBox
+[ 0 0 612 792 ] /Parent 5 0 R /Resources << /Font << /Xi3 40 0 R /F12 42 0 R
+/T1_0 39 0 R /T1_1 34 0 R /T1_2 37 0 R /T1_3 57 0 R /T1_4 41 0 R /T1_5 38 0 R
+/T1_6 36 0 R /T1_7 58 0 R /T1_8 59 0 R /T1_9 35 0 R >> /ProcSet [ /PDF /Text
+/ImageB /ImageC /ImageI ] /ColorSpace << /CS0 [ /ICCBased 56 0 R ] >> /ExtGState
+<< /GS1 31 0 R >> /XObject << /Im0 55 0 R >> >> /Rotate 0 /Contents [ 50 0 R
+51 0 R 52 0 R 53 0 R 54 0 R ] >>
+endobj
+10 0 obj
+<< /Annots 943 0 R /Type /Page /Thumb 68 0 R /MediaBox [ 0 0 612 792 ] /CropBox
+[ 0 0 612 792 ] /Parent 5 0 R /Resources << /Font << /T1_9 41 0 R /T1_10 58 0 R
+/Xi4 40 0 R /F13 42 0 R /T1_0 34 0 R /T1_1 35 0 R /T1_2 39 0 R /T1_3 37 0 R
+/T1_4 38 0 R /T1_5 36 0 R /T1_6 57 0 R /T1_7 59 0 R /T1_8 67 0 R >> /ExtGState
+<< /GS3 31 0 R /GS2 66 0 R >> /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI
+] >> /Rotate 0 /Contents [ 61 0 R 62 0 R 63 0 R 64 0 R 65 0 R ] >>
+endobj
+11 0 obj
+<< /Annots 974 0 R /Type /Page /Thumb 659 0 R /MediaBox [ 0 0 612 792 ] /CropBox
+[ 0 0 612 792 ] /Parent 5 0 R /Resources << /Font << /T1_6 67 0 R /T1_7 58 0 R
+/T1_8 59 0 R /T1_10 658 0 R /T1_11 41 0 R /Xi5 40 0 R /T1_0 39 0 R /T1_1 37 0 R
+/T1_2 34 0 R /F16 42 0 R /T1_3 36 0 R /T1_4 38 0 R /C2_1 657 0 R /C2_0 655 0 R
+/T1_5 57 0 R /T1_9 656 0 R >> /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI
+] /ColorSpace << /CS176 [ /Indexed /DeviceCMYK 3 448 0 R ] /CS177 [ /Indexed
+/DeviceCMYK 3 452 0 R ] /CS178 [ /Indexed /DeviceCMYK 14 451 0 R ] /CS179
+[ /Indexed /DeviceCMYK 36 454 0 R ] /CS34 [ /Indexed /DeviceCMYK 135 435 0 R
+] /CS35 [ /Indexed /DeviceCMYK 61 436 0 R ] /CS36 [ /Indexed /DeviceCMYK 66
+433 0 R ] /CS37 [ /Indexed /DeviceCMYK 149 434 0 R ] /CS38 [ /Indexed /DeviceCMYK
+43 430 0 R ] /CS39 [ /Indexed /DeviceCMYK 183 432 0 R ] /CS30 [ /Indexed /DeviceCMYK
+115 546 0 R ] /CS31 [ /Indexed /DeviceCMYK 19 547 0 R ] /CS32 [ /Indexed /DeviceCMYK
+114 548 0 R ] /CS33 [ /Indexed /DeviceCMYK 84 549 0 R ] /CS180 [ /Indexed
+/DeviceCMYK 39 416 0 R ] /CS181 [ /Indexed /DeviceCMYK 83 418 0 R ] /CS182
+[ /Indexed /DeviceCMYK 2 425 0 R ] /CS183 [ /Indexed /DeviceCMYK 12 426 0 R
+] /CS184 [ /Indexed /DeviceCMYK 17 422 0 R ] /CS185 [ /Indexed /DeviceCMYK
+22 424 0 R ] /CS40 [ /Indexed /DeviceCMYK 78 423 0 R ] /CS41 [ /Indexed /DeviceCMYK
+27 421 0 R ] /CS42 [ /Indexed /DeviceCMYK 232 420 0 R ] /CS43 [ /Indexed /DeviceCMYK
+108 419 0 R ] /CS44 [ /Indexed /DeviceCMYK 26 417 0 R ] /CS189 [ /Indexed
+/DeviceCMYK 106 427 0 R ] /CS188 [ /Indexed /DeviceCMYK 12 428 0 R ] /CS187
+[ /Indexed /DeviceCMYK 73 429 0 R ] /CS186 [ /Indexed /DeviceCMYK 114 431 0 R
+] /CS49 [ /Indexed /DeviceCMYK 12 449 0 R ] /CS45 [ /Indexed /DeviceCMYK 103
+453 0 R ] /CS46 [ /Indexed /DeviceCMYK 13 455 0 R ] /CS47 [ /Indexed /DeviceCMYK
+222 456 0 R ] /CS48 [ /Indexed /DeviceCMYK 23 457 0 R ] /CS190 [ /Indexed
+/DeviceCMYK 4 479 0 R ] /CS191 [ /Indexed /DeviceCMYK 46 481 0 R ] /CS192
+[ /Indexed /DeviceCMYK 6 483 0 R ] /CS193 [ /Indexed /DeviceCMYK 7 470 0 R
+] /CS194 [ /Indexed /DeviceCMYK 55 472 0 R ] /CS195 [ /Indexed /DeviceCMYK
+38 474 0 R ] /CS50 [ /Indexed /DeviceCMYK 153 447 0 R ] /CS51 [ /Indexed /DeviceCMYK
+253 445 0 R ] /CS52 [ /Indexed /DeviceCMYK 182 438 0 R ] /CS53 [ /Indexed
+/DeviceCMYK 126 437 0 R ] /CS54 [ /Indexed /DeviceCMYK 13 441 0 R ] /CS55
+[ /Indexed /DeviceCMYK 48 439 0 R ] /CS56 [ /Indexed /DeviceCMYK 19 467 0 R
+] /CS57 [ /Indexed /DeviceCMYK 33 468 0 R ] /CS58 [ /Indexed /DeviceCMYK 42
+465 0 R ] /CS59 [ /Indexed /DeviceCMYK 197 466 0 R ] /CS196 [ /Indexed /DeviceCMYK
+63 476 0 R ] /CS198 [ /Indexed /DeviceCMYK 215 487 0 R ] /CS197 [ /Indexed
+/DeviceCMYK 147 488 0 R ] /CS199 [ /Indexed /DeviceCMYK 222 489 0 R ] /CS60
+[ /Indexed /DeviceCMYK 45 460 0 R ] /CS61 [ /Indexed /DeviceCMYK 129 459 0 R
+] /CS62 [ /Indexed /DeviceCMYK 237 458 0 R ] /CS63 [ /Indexed /DeviceCMYK
+188 464 0 R ] /CS64 [ /Indexed /DeviceCMYK 44 463 0 R ] /CS65 [ /Indexed /DeviceCMYK
+217 462 0 R ] /CS66 [ /Indexed /DeviceCMYK 166 461 0 R ] /CS67 [ /Indexed
+/DeviceCMYK 131 484 0 R ] /CS68 [ /Indexed /DeviceCMYK 222 485 0 R ] /CS69
+[ /Indexed /DeviceCMYK 36 486 0 R ] /CS70 [ /Indexed /DeviceCMYK 64 471 0 R
+] /CS71 [ /Indexed /DeviceCMYK 236 469 0 R ] /CS72 [ /Indexed /DeviceCMYK
+5 475 0 R ] /CS73 [ /Indexed /DeviceCMYK 65 473 0 R ] /CS74 [ /Indexed /DeviceCMYK
+8 478 0 R ] /CS75 [ /Indexed /DeviceCMYK 43 477 0 R ] /CS76 [ /Indexed /DeviceCMYK
+180 482 0 R ] /CS77 [ /Indexed /DeviceCMYK 50 480 0 R ] /CS78 [ /Indexed /DeviceCMYK
+21 635 0 R ] /CS79 [ /Indexed /DeviceCMYK 175 634 0 R ] /CS80 [ /Indexed /DeviceCMYK
+36 640 0 R ] /CS81 [ /Indexed /DeviceCMYK 10 641 0 R ] /CS82 [ /Indexed /DeviceCMYK
+43 643 0 R ] /CS83 [ /Indexed /DeviceCMYK 151 645 0 R ] /CS84 [ /Indexed /DeviceCMYK
+141 646 0 R ] /CS85 [ /Indexed /DeviceCMYK 163 647 0 R ] /CS86 [ /Indexed
+/DeviceCMYK 30 649 0 R ] /CS87 [ /Indexed /DeviceCMYK 184 651 0 R ] /CS88
+[ /Indexed /DeviceCMYK 121 653 0 R ] /CS89 [ /Indexed /DeviceCMYK 44 613 0 R
+] /CS90 [ /Indexed /DeviceCMYK 210 617 0 R ] /CS91 [ /Indexed /DeviceCMYK
+0 618 0 R ] /CS92 [ /Indexed /DeviceCMYK 25 622 0 R ] /CS93 [ /Indexed /DeviceCMYK
+35 624 0 R ] /CS94 [ /Indexed /DeviceCMYK 48 619 0 R ] /CS95 [ /Indexed /DeviceCMYK
+77 621 0 R ] /CS96 [ /Indexed /DeviceCMYK 141 630 0 R ] /CS97 [ /Indexed /DeviceCMYK
+23 632 0 R ] /CS98 [ /Indexed /DeviceCMYK 137 626 0 R ] /CS99 [ /Indexed /DeviceCMYK
+14 628 0 R ] /CS200 [ /Indexed /DeviceCMYK 246 578 0 R ] /CS201 [ /Indexed
+/DeviceCMYK 46 574 0 R ] /CS202 [ /Indexed /DeviceCMYK 12 575 0 R ] /CS203
+[ /Indexed /DeviceCMYK 39 576 0 R ] /CS0 [ /Indexed /DeviceCMYK 49 510 0 R
+] /CS1 [ /Indexed /DeviceCMYK 149 508 0 R ] /CS2 [ /Indexed /DeviceCMYK 4
+509 0 R ] /CS3 [ /Indexed /DeviceCMYK 78 506 0 R ] /CS4 [ /Indexed /DeviceCMYK
+5 507 0 R ] /CS5 [ /Indexed /DeviceCMYK 4 504 0 R ] /CS6 [ /Indexed /DeviceCMYK
+90 505 0 R ] /CS7 [ /Indexed /DeviceCMYK 225 518 0 R ] /CS8 [ /Indexed /DeviceCMYK
+151 520 0 R ] /CS9 [ /Indexed /DeviceCMYK 6 515 0 R ] /CS204 [ /Indexed /DeviceCMYK
+20 577 0 R ] /CS209 [ /Indexed /DeviceCMYK 12 579 0 R ] /CS205 [ /Indexed
+/DeviceCMYK 237 580 0 R ] /CS206 [ /Indexed /DeviceCMYK 6 581 0 R ] /CS207
+[ /Indexed /DeviceCMYK 5 582 0 R ] /CS208 [ /Indexed /DeviceCMYK 2 583 0 R
+] /CS210 [ /Indexed /DeviceCMYK 79 644 0 R ] /CS211 [ /Indexed /DeviceCMYK
+8 642 0 R ] /CS212 [ /Indexed /DeviceCMYK 82 654 0 R ] /CS213 [ /Indexed /DeviceCMYK
+0 652 0 R ] /CS214 [ /Indexed /DeviceCMYK 168 650 0 R ] /CS215 [ /Indexed
+/DeviceCMYK 71 648 0 R ] /CS216 [ /Indexed /DeviceCMYK 123 639 0 R ] /CS217
+[ /Indexed /DeviceCMYK 193 638 0 R ] /CS218 [ /Indexed /DeviceCMYK 44 637 0 R
+] /CS219 [ /Indexed /DeviceCMYK 100 636 0 R ] /CS220 [ /Indexed /DeviceCMYK
+162 620 0 R ] /CS221 [ /Indexed /DeviceCMYK 245 625 0 R ] /CS222 [ /Indexed
+/DeviceCMYK 61 623 0 R ] /CS223 [ /Indexed /DeviceCMYK 233 629 0 R ] /CS224
+[ /Indexed /DeviceCMYK 39 627 0 R ] /CS225 [ /Indexed /DeviceCMYK 32 633 0 R
+] /CS226 [ /Indexed /DeviceCMYK 89 631 0 R ] /CS227 [ /Indexed /DeviceCMYK
+22 615 0 R ] /CS228 [ /Indexed /DeviceCMYK 96 614 0 R ] /CS229 [ /Indexed
+/DeviceCMYK 24 616 0 R ] /CS230 [ /Indexed /DeviceCMYK 72 612 0 R ] /CS231
+[ /Indexed /DeviceCMYK 190 611 0 R ] /CS232 [ /Indexed /DeviceCMYK 143 610 0 R
+] /CS233 [ /Indexed /DeviceCMYK 2 609 0 R ] /CS234 [ /Indexed /DeviceCMYK
+65 608 0 R ] /CS235 [ /Indexed /DeviceCMYK 196 607 0 R ] /CS236 [ /Indexed
+/DeviceCMYK 18 606 0 R ] /CS237 [ /Indexed /DeviceCMYK 11 605 0 R ] /CS238
+[ /Indexed /DeviceCMYK 238 604 0 R ] /CS100 [ /Indexed /DeviceCMYK 14 565 0 R
+] /CS101 [ /Indexed /DeviceCMYK 25 564 0 R ] /CS102 [ /Indexed /DeviceCMYK
+62 567 0 R ] /CS103 [ /Indexed /DeviceCMYK 60 566 0 R ] /CS104 [ /Indexed
+/DeviceCMYK 26 569 0 R ] /CS105 [ /Indexed /DeviceCMYK 136 568 0 R ] /CS106
+[ /Indexed /DeviceCMYK 91 571 0 R ] /CS107 [ /Indexed /DeviceCMYK 6 570 0 R
+] /CS108 [ /Indexed /DeviceCMYK 126 573 0 R ] /CS109 [ /Indexed /DeviceCMYK
+95 572 0 R ] /CS110 [ /Indexed /DeviceCMYK 6 600 0 R ] /CS111 [ /Indexed /DeviceCMYK
+1 599 0 R ] /CS112 [ /Indexed /DeviceCMYK 2 598 0 R ] /CS113 [ /Indexed /DeviceCMYK
+4 597 0 R ] /CS114 [ /Indexed /DeviceCMYK 2 596 0 R ] /CS115 [ /Indexed /DeviceCMYK
+132 595 0 R ] /CS116 [ /Indexed /DeviceCMYK 23 594 0 R ] /CS117 [ /Indexed
+/DeviceCMYK 26 603 0 R ] /CS118 [ /Indexed /DeviceCMYK 5 602 0 R ] /CS119
+[ /Indexed /DeviceCMYK 4 601 0 R ] /CS120 [ /Indexed /DeviceCMYK 213 589 0 R
+] /CS121 [ /Indexed /DeviceCMYK 99 588 0 R ] /CS122 [ /Indexed /DeviceCMYK
+4 591 0 R ] /CS123 [ /Indexed /DeviceCMYK 81 590 0 R ] /CS124 [ /Indexed /DeviceCMYK
+4 585 0 R ] /CS125 [ /Indexed /DeviceCMYK 4 584 0 R ] /CS126 [ /Indexed /DeviceCMYK
+2 587 0 R ] /CS127 [ /Indexed /DeviceCMYK 200 586 0 R ] /CS128 [ /Indexed
+/DeviceCMYK 57 593 0 R ] /CS129 [ /Indexed /DeviceCMYK 148 592 0 R ] /CS130
+[ /Indexed /DeviceCMYK 44 502 0 R ] /CS131 [ /Indexed /DeviceCMYK 127 511 0 R
+] /CS132 [ /Indexed /DeviceCMYK 136 512 0 R ] /CS133 [ /Indexed /DeviceCMYK
+161 513 0 R ] /CS134 [ /Indexed /DeviceCMYK 214 514 0 R ] /CS135 [ /Indexed
+/DeviceCMYK 137 516 0 R ] /CS136 [ /Indexed /DeviceCMYK 54 517 0 R ] /CS137
+[ /Indexed /DeviceCMYK 56 519 0 R ] /CS138 [ /Indexed /DeviceCMYK 164 521 0 R
+] /CS139 [ /Indexed /DeviceCMYK 39 503 0 R ] /CS140 [ /Indexed /DeviceCMYK
+80 491 0 R ] /CS141 [ /Indexed /DeviceCMYK 151 490 0 R ] /CS142 [ /Indexed
+/DeviceCMYK 136 494 0 R ] /CS143 [ /Indexed /DeviceCMYK 122 495 0 R ] /CS144
+[ /Indexed /DeviceCMYK 23 492 0 R ] /CS145 [ /Indexed /DeviceCMYK 5 493 0 R
+] /CS146 [ /Indexed /DeviceCMYK 190 498 0 R ] /CS147 [ /Indexed /DeviceCMYK
+145 499 0 R ] /CS148 [ /Indexed /DeviceCMYK 121 496 0 R ] /CS149 [ /Indexed
+/DeviceCMYK 245 497 0 R ] /CS150 [ /Indexed /DeviceCMYK 13 543 0 R ] /CS151
+[ /Indexed /DeviceCMYK 27 545 0 R ] /CS152 [ /Indexed /DeviceCMYK 68 544 0 R
+] /CS153 [ /Indexed /DeviceCMYK 224 557 0 R ] /CS154 [ /Indexed /DeviceCMYK
+168 559 0 R ] /CS155 [ /Indexed /DeviceCMYK 45 561 0 R ] /CS10 [ /Indexed
+/DeviceCMYK 4 500 0 R ] /CS11 [ /Indexed /DeviceCMYK 2 501 0 R ] /CS12 [ /Indexed
+/DeviceCMYK 44 534 0 R ] /CS13 [ /Indexed /DeviceCMYK 96 532 0 R ] /CS14 [
+/Indexed /DeviceCMYK 134 530 0 R ] /CS15 [ /Indexed /DeviceCMYK 46 529 0 R
+] /CS16 [ /Indexed /DeviceCMYK 106 542 0 R ] /CS17 [ /Indexed /DeviceCMYK
+220 539 0 R ] /CS18 [ /Indexed /DeviceCMYK 253 537 0 R ] /CS19 [ /Indexed
+/DeviceCMYK 172 536 0 R ] /CS157 [ /Indexed /DeviceCMYK 135 550 0 R ] /CS158
+[ /Indexed /DeviceCMYK 4 552 0 R ] /CS159 [ /Indexed /DeviceCMYK 37 554 0 R
+] /CS156 [ /Indexed /DeviceCMYK 140 562 0 R ] /CS160 [ /Indexed /DeviceCMYK
+202 525 0 R ] /CS161 [ /Indexed /DeviceCMYK 46 524 0 R ] /CS162 [ /Indexed
+/DeviceCMYK 188 523 0 R ] /CS163 [ /Indexed /DeviceCMYK 39 522 0 R ] /CS164
+[ /Indexed /DeviceCMYK 248 540 0 R ] /CS165 [ /Indexed /DeviceCMYK 161 541 0 R
+] /CS20 [ /Indexed /DeviceCMYK 112 528 0 R ] /CS21 [ /Indexed /DeviceCMYK
+128 526 0 R ] /CS22 [ /Indexed /DeviceCMYK 75 527 0 R ] /CS168 [ /Indexed
+/DeviceCMYK 96 531 0 R ] /CS169 [ /Indexed /DeviceCMYK 4 533 0 R ] /CS166
+[ /Indexed /DeviceCMYK 142 535 0 R ] /CS167 [ /Indexed /DeviceCMYK 39 538 0 R
+] /CS24 [ /Indexed /DeviceCMYK 153 551 0 R ] /CS23 [ /Indexed /DeviceCMYK
+111 553 0 R ] /CS26 [ /Indexed /DeviceCMYK 185 555 0 R ] /CS25 [ /Indexed
+/DeviceCMYK 228 556 0 R ] /CS28 [ /Indexed /DeviceCMYK 136 558 0 R ] /CS27
+[ /Indexed /DeviceCMYK 123 560 0 R ] /CS29 [ /Indexed /DeviceCMYK 37 563 0 R
+] /CS170 [ /Indexed /DeviceCMYK 5 440 0 R ] /CS171 [ /Indexed /DeviceCMYK
+7 442 0 R ] /CS172 [ /Indexed /DeviceCMYK 10 443 0 R ] /CS173 [ /Indexed /DeviceCMYK
+153 444 0 R ] /CS174 [ /Indexed /DeviceCMYK 45 446 0 R ] /CS175 [ /Indexed
+/DeviceCMYK 121 450 0 R ] >> /ExtGState << /GS0 31 0 R /GS1 66 0 R >> /XObject
+<< /Im260 317 0 R /Im261 322 0 R /Im262 320 0 R /Im263 326 0 R /Im264 324 0 R
+/Im265 328 0 R /Im266 327 0 R /Im267 246 0 R /Im268 247 0 R /Im269 244 0 R
+/Im111 358 0 R /Im113 300 0 R /Im114 301 0 R /Im115 302 0 R /Im116 303 0 R
+/Im117 295 0 R /Im118 296 0 R /Im119 298 0 R /Im112 359 0 R /Im110 360 0 R
+/Im270 281 0 R /Im271 279 0 R /Im272 277 0 R /Im0 120 0 R /Im1 115 0 R /Im2
+117 0 R /Im3 130 0 R /Im4 128 0 R /Im278 75 0 R /Im279 74 0 R /Im7 123 0 R
+/Im8 121 0 R /Im9 126 0 R /Im6 132 0 R /Im5 134 0 R /Im126 257 0 R /Im128
+254 0 R /Im129 256 0 R /Im127 258 0 R /Im124 259 0 R /Im125 260 0 R /Im273
+275 0 R /Im277 282 0 R /Im276 283 0 R /Im275 284 0 R /Im274 285 0 R /Im121
+305 0 R /Im120 307 0 R /Im123 309 0 R /Im122 311 0 R /Im280 76 0 R /Im281
+79 0 R /Im282 80 0 R /Im283 77 0 R /Im284 78 0 R /Im285 83 0 R /Im286 84 0 R
+/Im287 81 0 R /Im288 82 0 R /Im289 85 0 R /Im132 266 0 R /Im133 264 0 R /Im134
+262 0 R /Im135 215 0 R /Im136 216 0 R /Im137 217 0 R /Im138 218 0 R /Im139
+220 0 R /Im131 268 0 R /Im130 270 0 R /Im290 86 0 R /Im291 87 0 R /Im292 88 0 R
+/Im293 89 0 R /Im294 90 0 R /Im295 91 0 R /Im296 92 0 R /Im297 93 0 R /Im298
+94 0 R /Im299 95 0 R /Im141 225 0 R /Im140 227 0 R /Im143 229 0 R /Im142 231 0 R
+/Im146 179 0 R /Im147 180 0 R /Im148 177 0 R /Im149 178 0 R /Im145 232 0 R
+/Im144 234 0 R /Im150 183 0 R /Im151 182 0 R /Im152 181 0 R /Im153 187 0 R
+/Im154 186 0 R /Im155 185 0 R /Im156 184 0 R /Im157 119 0 R /Im158 118 0 R
+/Im159 116 0 R /Im160 100 0 R /Im161 101 0 R /Im162 97 0 R /Im163 99 0 R /Im164
+104 0 R /Im165 105 0 R /Im166 102 0 R /Im167 103 0 R /Im168 138 0 R /Im169
+137 0 R /Im170 136 0 R /Im171 122 0 R /Im172 124 0 R /Im173 125 0 R /Im174
+127 0 R /Im175 129 0 R /Im176 131 0 R /Im177 133 0 R /Im178 135 0 R /Im179
+149 0 R /Im180 147 0 R /Im181 148 0 R /Im182 145 0 R /Im183 146 0 R /Im184
+143 0 R /Im185 144 0 R /Im186 141 0 R /Im187 142 0 R /Im188 139 0 R /Im189
+140 0 R /Im300 106 0 R /Im301 107 0 R /Im302 108 0 R /Im303 109 0 R /Im304
+110 0 R /Im305 111 0 R /Im306 112 0 R /Im307 113 0 R /Im308 96 0 R /Im309
+98 0 R /Im190 157 0 R /Im191 158 0 R /Im192 159 0 R /Im193 153 0 R /Im194
+154 0 R /Im195 155 0 R /Im196 156 0 R /Im197 150 0 R /Im198 151 0 R /Im199
+152 0 R /Im310 114 0 R /Im311 313 0 R /Im312 312 0 R /Im313 315 0 R /Im314
+314 0 R /Im315 306 0 R /Im316 304 0 R /Im317 310 0 R /Im318 308 0 R /Im319
+325 0 R /Im17 329 0 R /Im16 331 0 R /Im19 334 0 R /Im18 335 0 R /Im11 344 0 R
+/Im10 346 0 R /Im13 348 0 R /Im12 350 0 R /Im15 352 0 R /Im14 354 0 R /Im320
+297 0 R /Im321 299 0 R /Im322 273 0 R /Im323 272 0 R /Im324 271 0 R /Im325
+269 0 R /Im326 267 0 R /Im327 265 0 R /Im328 263 0 R /Im329 261 0 R /Im28
+362 0 R /Im29 361 0 R /Im27 363 0 R /Im22 364 0 R /Im21 365 0 R /Im20 366 0 R
+/Im26 367 0 R /Im25 368 0 R /Im24 369 0 R /Im23 370 0 R /Im330 255 0 R /Im331
+252 0 R /Im332 253 0 R /Im333 223 0 R /Im334 222 0 R /Im335 226 0 R /Im336
+224 0 R /Im337 230 0 R /Im338 228 0 R /Im339 233 0 R /Im38 375 0 R /Im39 374 0 R
+/Im35 376 0 R /Im34 378 0 R /Im37 380 0 R /Im36 382 0 R /Im31 384 0 R /Im30
+385 0 R /Im33 387 0 R /Im32 389 0 R /Im340 219 0 R /Im341 221 0 R /Im40 412 0 R
+/Im41 410 0 R /Im42 408 0 R /Im43 406 0 R /Im44 404 0 R /Im45 402 0 R /Im46
+400 0 R /Im47 398 0 R /Im48 396 0 R /Im49 395 0 R /Im50 201 0 R /Im51 199 0 R
+/Im52 160 0 R /Im53 161 0 R /Im54 162 0 R /Im55 164 0 R /Im56 166 0 R /Im57
+169 0 R /Im58 172 0 R /Im59 175 0 R /Im204 349 0 R /Im205 347 0 R /Im206 345 0 R
+/Im207 343 0 R /Im208 342 0 R /Im209 341 0 R /Im203 351 0 R /Im202 353 0 R
+/Im201 355 0 R /Im200 371 0 R /Im60 241 0 R /Im61 240 0 R /Im62 239 0 R /Im63
+206 0 R /Im64 207 0 R /Im65 202 0 R /Im66 204 0 R /Im67 211 0 R /Im68 213 0 R
+/Im69 208 0 R /Im210 356 0 R /Im211 357 0 R /Im213 397 0 R /Im212 399 0 R
+/Im215 401 0 R /Im214 403 0 R /Im217 405 0 R /Im216 407 0 R /Im219 409 0 R
+/Im218 411 0 R /Im70 276 0 R /Im71 274 0 R /Im72 280 0 R /Im73 278 0 R /Im74
+248 0 R /Im75 249 0 R /Im76 250 0 R /Im77 251 0 R /Im78 243 0 R /Im79 245 0 R
+/Im224 381 0 R /Im225 379 0 R /Im226 377 0 R /Im223 383 0 R /Im228 388 0 R
+/Im229 386 0 R /Im227 390 0 R /Im220 413 0 R /Im221 414 0 R /Im222 415 0 R
+/Im80 323 0 R /Im81 321 0 R /Im82 319 0 R /Im83 318 0 R /Im84 316 0 R /Im85
+293 0 R /Im86 294 0 R /Im87 291 0 R /Im88 292 0 R /Im89 288 0 R /Im234 209 0 R
+/Im235 210 0 R /Im236 212 0 R /Im237 214 0 R /Im238 203 0 R /Im239 205 0 R
+/Im232 391 0 R /Im233 392 0 R /Im230 393 0 R /Im231 394 0 R /Im90 200 0 R
+/Im91 198 0 R /Im92 190 0 R /Im93 188 0 R /Im94 194 0 R /Im95 192 0 R /Im96
+165 0 R /Im97 168 0 R /Im98 171 0 R /Im99 174 0 R /Im242 235 0 R /Im245 173 0 R
+/Im246 176 0 R /Im247 167 0 R /Im248 170 0 R /Im249 163 0 R /Im241 236 0 R
+/Im244 237 0 R /Im243 238 0 R /Im240 242 0 R /Im250 197 0 R /Im251 196 0 R
+/Im252 195 0 R /Im253 193 0 R /Im254 191 0 R /Im255 189 0 R /Im256 286 0 R
+/Im257 287 0 R /Im258 289 0 R /Im259 290 0 R /Im102 336 0 R /Im103 333 0 R
+/Im104 332 0 R /Im105 330 0 R /Im106 340 0 R /Im107 339 0 R /Im108 338 0 R
+/Im109 337 0 R /Im100 372 0 R /Im101 373 0 R >> >> /Rotate 0 /Contents [ 69 0 R
+70 0 R 71 0 R 72 0 R 73 0 R ] >>
+endobj
+12 0 obj
+<< /Type /Page /Thumb 697 0 R /MediaBox [ 0 0 612 792 ] /CropBox [ 0 0 612
+792 ] /Parent 5 0 R /Resources << /Font << /T1_6 695 0 R /T1_7 41 0 R /T1_8
+59 0 R /Xi6 40 0 R /T1_0 39 0 R /F14 42 0 R /T1_1 34 0 R /T1_2 37 0 R /T1_3
+38 0 R /T1_4 57 0 R /C2_1 696 0 R /C2_0 694 0 R /T1_5 36 0 R /T1_9 58 0 R
+>> /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /ColorSpace << /CS0 [ /Separation
+/Black /DeviceCMYK 693 0 R ] >> /ExtGState << /GS1 31 0 R /GS5 66 0 R >> /XObject
+<< /Im2 676 0 R /Im3 683 0 R /Im4 682 0 R /Im5 685 0 R /Im6 684 0 R /Im7 679 0 R
+/Im8 678 0 R /Im9 680 0 R /Im21 687 0 R /Im22 686 0 R /Im20 688 0 R /Im24
+691 0 R /Im25 690 0 R /Im26 689 0 R /Im27 681 0 R /Im10 670 0 R /Im11 669 0 R
+/Im12 672 0 R /Im13 671 0 R /Im14 674 0 R /Im15 673 0 R /Im16 666 0 R /Im17
+665 0 R /Im18 668 0 R /Im19 667 0 R /Im23 692 0 R /Im0 677 0 R /Im1 675 0 R
+>> >> /Rotate 0 /Contents [ 660 0 R 661 0 R 662 0 R 663 0 R 664 0 R ] >>
+endobj
+13 0 obj
+<< /Type /Page /Thumb 707 0 R /MediaBox [ 0 0 612 792 ] /CropBox [ 0 0 612
+792 ] /Parent 5 0 R /Resources << /Font << /T1_7 41 0 R /T1_8 35 0 R /T1_10
+705 0 R /T1_11 704 0 R /T1_12 706 0 R /T1_13 658 0 R /Xi7 40 0 R /T1_0 39 0 R
+/T1_1 34 0 R /T1_2 37 0 R /T1_3 38 0 R /F17 42 0 R /T1_4 57 0 R /C2_0 703 0 R
+/T1_5 59 0 R /T1_6 36 0 R /T1_9 656 0 R >> /ExtGState << /GS3 31 0 R /GS2
+66 0 R >> /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Contents
+[ 698 0 R 699 0 R 700 0 R 701 0 R 702 0 R ] >>
+endobj
+14 0 obj
+<< /Annots 987 0 R /Type /Page /Thumb 715 0 R /MediaBox [ 0 0 612 792 ] /CropBox
+[ 0 0 612 792 ] /Parent 5 0 R /Resources << /Font << /Xi8 40 0 R /F12 42 0 R
+/T1_0 39 0 R /T1_1 37 0 R /T1_2 36 0 R /T1_3 38 0 R /T1_4 41 0 R /T1_5 57 0 R
+/C2_1 713 0 R /C2_0 714 0 R /T1_6 34 0 R /T1_7 58 0 R >> /ProcSet [ /PDF /Text
+/ImageB /ImageC /ImageI ] /ColorSpace << /CS0 [ /Separation /Black /DeviceCMYK
+693 0 R ] >> /ExtGState << /GS1 31 0 R /GS5 66 0 R >> >> /Rotate 0 /Contents
+[ 708 0 R 709 0 R 710 0 R 711 0 R 712 0 R ] >>
+endobj
+15 0 obj
+<< /Type /Page /Thumb 722 0 R /MediaBox [ 0 0 612 792 ] /CropBox [ 0 0 612
+792 ] /Parent 5 0 R /Resources << /Font << /T1_7 58 0 R /T1_8 35 0 R /T1_10
+706 0 R /T1_11 705 0 R /T1_12 704 0 R /T1_13 658 0 R /Xi9 40 0 R /T1_0 39 0 R
+/T1_1 34 0 R /T1_2 37 0 R /T1_3 38 0 R /F17 42 0 R /T1_4 41 0 R /C2_0 721 0 R
+/T1_5 36 0 R /T1_6 57 0 R /T1_9 656 0 R >> /ProcSet [ /PDF /Text /ImageB /ImageC
+/ImageI ] /ColorSpace << /CS0 [ /Separation /Black /DeviceCMYK 693 0 R ] >>
+/ExtGState << /GS3 31 0 R /GS2 66 0 R >> >> /Rotate 0 /Contents [ 716 0 R
+717 0 R 718 0 R 719 0 R 720 0 R ] >>
+endobj
+16 0 obj
+<< /Type /Page /Thumb 728 0 R /MediaBox [ 0 0 612 792 ] /CropBox [ 0 0 612
+792 ] /Parent 5 0 R /Resources << /Font << /T1_8 35 0 R /Xi10 40 0 R /T1_10
+656 0 R /F13 42 0 R /T1_0 39 0 R /T1_1 34 0 R /T1_2 36 0 R /T1_3 37 0 R /T1_4
+57 0 R /T1_5 38 0 R /T1_6 59 0 R /T1_7 41 0 R /T1_9 705 0 R >> /ExtGState
+<< /GS1 31 0 R /GS5 66 0 R >> /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI
+] >> /Rotate 0 /Contents [ 723 0 R 724 0 R 725 0 R 726 0 R 727 0 R ] >>
+endobj
+17 0 obj
+<< /Type /Page /Thumb 737 0 R /MediaBox [ 0 0 612 792 ] /CropBox [ 0 0 612
+792 ] /Parent 6 0 R /Resources << /Font << /T1_6 58 0 R /T1_7 41 0 R /F10
+42 0 R /Xi11 40 0 R /T1_0 39 0 R /T1_1 35 0 R /T1_2 33 0 R /T1_3 34 0 R /T1_4
+37 0 R /T1_5 36 0 R >> /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /ExtGState
+<< /GS0 734 0 R /GS1 31 0 R /GS2 66 0 R >> /XObject << /Im0 736 0 R /Im1 735 0 R
+>> >> /Rotate 0 /Contents [ 729 0 R 730 0 R 731 0 R 732 0 R 733 0 R ] >>
+endobj
+18 0 obj
+<< /Type /Page /Thumb 743 0 R /MediaBox [ 0 0 612 792 ] /CropBox [ 0 0 612
+792 ] /Parent 6 0 R /Resources << /Font << /Xi12 40 0 R /T1_0 39 0 R /T1_1
+34 0 R /F4 42 0 R >> /ExtGState << /GS1 31 0 R >> /ProcSet [ /PDF /Text /ImageB
+/ImageC /ImageI ] >> /Rotate 0 /Contents [ 738 0 R 739 0 R 740 0 R 741 0 R
+742 0 R ] >>
+endobj
+850 0 obj
+[ 851 0 R 857 0 R 865 0 R 863 0 R 864 0 R 881 0 R 887 0 R 995 0 R 994 0 R
+]
+endobj
+987 0 obj
+[ 988 0 R ]
+endobj
+988 0 obj
+<< /T (Sai Venkat Malreddy) /AP << /N 989 0 R >> /Rect [ 58.57775 159.9486
+297.092 191.5801 ] /M (D:20241002182303Z00'00') /C [ 0.980392 0.803922 0.352941
+] /DA (//Helvetica 12 Tf 0 g) /F 4 /Type /Annot /Border [ 0 0 0 ] /QuadPoints
+[ 102.7786 191.5802 297.092 191.5802 102.7786 182.6643 297.092 182.6643 58.57775
+180.2223 297.092 180.2223 58.57775 171.3064 297.092 171.3064 58.57775 168.8645
+238.6655 168.8645 58.57775 159.9486 238.6655 159.9486 ] /Subtype /Highlight
+>>
+endobj
+989 0 obj
+<< /Type /XObject /Length 339 /FormType 1 /Resources 990 0 R /Subtype /Form
+/Filter /FlateDecode /BBox [ 0 0 238.5142 31.63153 ] >> stream
+xe“;nÃ@Dû=O@ó³²N‘ÚU Äiä î„v´ P¡ÕÓb83+=à
+ ¸Dge¬ÊEáç>à.oÃv ¡©K,^÷çB‹xf86¸¼œ¾È…È
+HCnZî3ôR[…\\r%lêŸÄ-“’¶°Tã-{ †U¤N6|KŸä´ğ’:ÓIAu
+ÏCI+5Ñ1n€mºê,íÓ{gK¾.ş¿…nQ24.QÀ(qÃâÙ£PçbæÀjÂŒÍ”›M2ë›fi°~¨OÒ‡?¥Î:8#©u$”ü<ÔŞş ÛâªoÚWóFÎS6-‘ÿÈ˜Kó8ùh jŒb–×'u6`H’uN:Ÿ·hËP)8ÉÜÙ+wÂFHÖÚ”dLç®$X[nµMåú°‰–ô.ñÓ¤ñ3um‚eô®¿ˆ{®6
+endstream
+endobj
+990 0 obj
+<< /ColorSpace << /Cs1 991 0 R >> /ExtGState << /Gs1 993 0 R >> /ProcSet [
+/PDF ] >>
+endobj
+991 0 obj
+[ /ICCBased 992 0 R ]
+endobj
+992 0 obj
+<< /Alternate /DeviceRGB /N 3 /Length 2612 /Filter /FlateDecode >> stream
+x–wTSÙ‡Ï½7½Ğ" %ôz	 Ò;HQ‰I€P†„&vDF)VdTÀG‡"cEƒ‚b×	òPÆÁQDEåİŒk	ï­5óŞšıÇYßÙç·×Ùgï}×º Pü‚ÂtX€4¡XîëÁ\ËÄ÷XÀáffGøDÔü½=™™¨HÆ³öî.€d»Û,¿P&sÖÿ‘"7C$ 
+EÕ6<~&å”S³Å2ÿÊô•)2†12¡	¢¬"ãÄ¯lö§æ+»É˜—&ä¡YÎ¼4Œ»PŞš%á£Œ¡\˜%àg£|e½TIš å÷(ÓÓøœL 0™_Ìç&¡l‰2Eî‰ò ”Ä9¼r‹ù9h x¦gäŠ‰Ib¦×˜iåèÈfúñ³Sùb1+”ÃMáˆxLÏô´0€¯o–E%Ym™h‘í­ííYÖæhù¿Ùß~Sı=ÈzûUñ&ìÏAŒYßlì¬/½ ö$Z›³¾•U ´m@åá¬Oï  ò ´Şœó†l^’Äâ'‹ììlsŸk.+è7ûŸ‚oÊ¿†9÷™ËîûV;¦?#I3eEå¦§¦KDÌÌ—Ïdı÷ÿãÀ9iÍÉÃ,œŸÀñ…èUQè”	„‰h»…<X.d
+„Õá6'~khu_ }…9P¸IÈo= C#$n?z}ë[1
+È¾¼h­‘¯s2zşçú\ŠnáLA"Sæödr%¢,£ß„lÁt 
+4.0,`€3pŞ  „€H–.Hi@²A>Ø 
+A1Øvƒjp ÔzĞN‚6p\WÀp€G@
+†ÁK0Şi‚ğ¢Aª¤™BÖZyCAP8ÅC‰’@ùĞ&¨*ƒª¡CP=ô#tº]ƒú Ğ 4ı}„˜ÓaØ ¶€Ù°;GÂËàDxœÀÛáJ¸>·Âáğ ,…_Â“@ÈÑFXñDBX$!k‘"¤©Eš¤¹H‘qä‡¡a˜Æã‡YŒábVaÖbJ0Õ˜c˜VLæ6f3ù‚¥bÕ±¦X'¬?v	6›-ÄV``[°—±Øaì;ÇÀâp~¸\2n5®·×Œ»€ëÃá&ñx¼*Şï‚Ásğb|!¾
+ßÆ¿'	Zk‚!– $l$Tçı„Â4Q¨Ot"†yÄ\b)±ØA¼I&N“I†$R$)™´TIj"]&=&½!“É:dGrY@^O®$Ÿ _%’?P”(&OJEBÙN9J¹@y@yC¥R¨nÔXª˜ºZO½D}J}/G“3—ó—ãÉ­“«‘k•ë—{%O”×—w—_.Ÿ'_!Jş¦ü¸QÁ@ÁS£°V¡Fá´Â=…IEš¢•bˆbšb‰bƒâ5ÅQ%¼’’·O©@é°Ò%¥!BÓ¥yÒ¸´M´:ÚeÚ0G7¤ûÓ“éÅôè½ô	e%e[å(ååå³ÊRÂ0`ø3R¥Œ“Œ»Œó4æ¹ÏãÏÛ6¯i^ÿ¼)•ù*n*|•"•f••ªLUoÕÕªmªOÔ0j&jajÙjûÕ.«Ï§ÏwÏ_4ÿäü‡ê°º‰z¸újõÃê=ê“š¾U—4Æ5šnšÉšåšç4Ç´hZµZåZçµ^0•™îÌTf%³‹9¡­®í§-Ñ>¤İ«=­c¨³Xg£N³Î]’.[7A·\·SwBOK/X/_¯Qï¡>QŸ­Ÿ¤¿G¿[ÊÀĞ Ú`‹A›Á¨¡Š¡¿aa£ác#ª‘«Ñ*£Z£;Æ8c¶qŠñ>ã[&°‰I’IÉMSØÔŞT`ºÏ´Ïkæh&4«5»Ç¢°ÜYY¬FÖ 9Ã<È|£y›ù+=‹X‹İ_,í,S-ë,Y)YXm´ê°úÃÚÄšk]c}Ç†jãc³Î¦İæµ­©-ßv¿í};š]°İ»N»Ïöö"û&û1=‡x‡½÷Øtv(»„}Õëèá¸ÎñŒã'{'±ÓI§ßYÎ)ÎÎ£ğÔ-rÑqá¸r‘.d.Œ_xp¡ÔUÛ•ãZëúÌM×çvÄmÄİØ=Ùı¸û+K‘G‹Ç”§“çÏ^ˆ—¯W‘W¯·’÷bïjï§>:>‰>>¾v¾«}/øaııvúİó×ğçú×ûO8¬	è
+¤FV>2	uÃÁÁ»‚/Ò_$\ÔBüCv…<	5]ús.,4¬&ìy¸Ux~xw-bEDCÄ»HÈÒÈG‹KwFÉGÅEÕGME{E—EK—X,Y³äFŒZŒ ¦={$vr©÷ÒİK‡ãìâ
+ãî.3\–³ìÚrµå©ËÏ®_ÁYq*ßÿ‰Â©åL®ô_¹wå×“»‡û’çÆ+çñ]øeü‘—„²„ÑD—Ä]‰cI®IIãOAµàu²_òä©””£)3©Ñ©Íi„´ø´ÓB%aŠ°+]3='½/Ã4£0CºÊiÕîU¢@Ñ‘L(sYf»˜şLõHŒ$›%ƒY³j²ŞgGeŸÊQÌæôäšänËÉóÉû~5f5wug¾vş†üÁ5îk­…Ö®\Û¹Nw]Áºáõ¾ëm mHÙğËFËeßnŠŞÔQ Q°¾`h³ïæÆB¹BQá½-Î[lÅllíİf³­jÛ—"^ÑõbËâŠâO%Ü’ëßY}WùİÌö„í½¥ö¥ûwàvwÜİéºóX™bY^ÙĞ®à]­åÌò¢ò·»Wì¾Va[q`id´2¨²½J¯jGÕ§ê¤êšæ½ê{·íÚÇÛ×¿ßmÓÅ>¼È÷Pk­AmÅaÜá¬ÃÏë¢êº¿g_DíHñ‘ÏG…G¥ÇÂuÕ;Ô×7¨7”6Â’Æ±ãqÇoıàõC{«éP3£¹ø8!9ñâÇøï<ÙyŠ}ªé'ıŸö¶ĞZŠZ¡ÖÜÖ‰¶¤6i{L{ßé€ÓÎ-?›ÿ|ôŒö™š³ÊgKÏ‘Îœ›9Ÿw~òBÆ…ñ‹‰‡:Wt>º´äÒ®°®ŞË—¯^ñ¹r©Û½ûüU—«g®9];}}½í†ıÖ»–_ì~iéµïm½ép³ı–ã­¾}çú]û/Şöº}åÿ‹úî.¾{ÿ^Ü=é}ŞıÑ©^?Ìz8ıhıcìã¢'
+O*ª?­ıÕø×f©½ôì ×`Ï³ˆg†¸C/ÿ•ù¯OÃÏ©Ï+F´FêG­GÏŒùŒİz±ôÅğËŒ—Óã…¿)ş¶÷•Ñ«Ÿ~wû½gbÉÄğkÑë™?JŞ¨¾9úÖömçdèäÓwiï¦§ŠŞ«¾?öı¡ûcôÇ‘éìOøO•Ÿ?w|	üòx&mfæß÷„óû
+endstream
+endobj
+993 0 obj
+<< /BM /Multiply /Type /ExtGState >>
+endobj
+994 0 obj
+<< /T (Sai Venkat Malreddy) /AP << /N 1001 0 R >> /Rect [ 313.688 309.3817
+383.16 318.2976 ] /M (D:20241002191045Z00'00') /C [ 0.980392 0.803922 0.352941
+] /DA (//Helvetica 12 Tf 0 g) /F 4 /Type /Annot /Border [ 0 0 0 ] /QuadPoints
+[ 313.688 318.2976 383.16 318.2976 313.688 309.3817 383.16 309.3817 ] /Subtype
+/Highlight >>
+endobj
+995 0 obj
+<< /T (Sai Venkat Malreddy) /AP << /N 996 0 R >> /Rect [ 313.688 320.7395
+552.2022 341.0132 ] /M (D:20241002191040Z00'00') /C [ 0.980392 0.803922 0.352941
+] /DA (//Helvetica 12 Tf 0 g) /F 4 /Type /Annot /Border [ 0 0 0 ] /QuadPoints
+[ 452.4332 341.0132 552.2022 341.0132 452.4332 332.0974 552.2022 332.0974
+313.688 329.6554 552.2022 329.6554 313.688 320.7395 552.2022 320.7395 ] /Subtype
+/Highlight >>
+endobj
+996 0 obj
+<< /Type /XObject /Length 264 /FormType 1 /Resources 997 0 R /Subtype /Form
+/Filter /FlateDecode /BBox [ 0 0 238.5142 20.27371 ] >> stream
+xM’=nÃ0…w‚'`DŠ©¹CæL=€ÑtI¤¾?PÚÖ<˜úL<>>ùxCô‡“a&aàˆ¬I	ş¾à~áö±l;D¬Se/Î÷Q¤ÌUön÷Â÷ä2*™2e-ğ³0Å\­Š“Š%ª˜ŒÉÛ%bfóO„Í-ÔDÁË‘ba.“ßÔÅ'iN©¶	ÆÄ¹.JŒ,Çc\Ûâª±ğZ¼÷¾¹sŸ¤§°ÁÓC”¬UÄC‰¡ø\">­”Í*F–„j‰ÔúyFÑ– .ÆÒCu1ôé—ŒEE‹ÎüV/.uÅ>xİÑ„¯ãGh¾—
+¸KÇ°L~ÂãŠ{_
+endstream
+endobj
+997 0 obj
+<< /ColorSpace << /Cs1 998 0 R >> /ExtGState << /Gs1 1000 0 R >> /ProcSet
+[ /PDF ] >>
+endobj
+998 0 obj
+[ /ICCBased 999 0 R ]
+endobj
+999 0 obj
+<< /Alternate /DeviceRGB /N 3 /Length 2612 /Filter /FlateDecode >> stream
+x–wTSÙ‡Ï½7½Ğ" %ôz	 Ò;HQ‰I€P†„&vDF)VdTÀG‡"cEƒ‚b×	òPÆÁQDEåİŒk	ï­5óŞšıÇYßÙç·×Ùgï}×º Pü‚ÂtX€4¡XîëÁ\ËÄ÷XÀáffGøDÔü½=™™¨HÆ³öî.€d»Û,¿P&sÖÿ‘"7C$ 
+EÕ6<~&å”S³Å2ÿÊô•)2†12¡	¢¬"ãÄ¯lö§æ+»É˜—&ä¡YÎ¼4Œ»PŞš%á£Œ¡\˜%àg£|e½TIš å÷(ÓÓøœL 0™_Ìç&¡l‰2Eî‰ò ”Ä9¼r‹ù9h x¦gäŠ‰Ib¦×˜iåèÈfúñ³Sùb1+”ÃMáˆxLÏô´0€¯o–E%Ym™h‘í­ííYÖæhù¿Ùß~Sı=ÈzûUñ&ìÏAŒYßlì¬/½ ö$Z›³¾•U ´m@åá¬Oï  ò ´Şœó†l^’Äâ'‹ììlsŸk.+è7ûŸ‚oÊ¿†9÷™ËîûV;¦?#I3eEå¦§¦KDÌÌ—Ïdı÷ÿãÀ9iÍÉÃ,œŸÀñ…èUQè”	„‰h»…<X.d
+„Õá6'~khu_ }…9P¸IÈo= C#$n?z}ë[1
+È¾¼h­‘¯s2zşçú\ŠnáLA"Sæödr%¢,£ß„lÁt 
+4.0,`€3pŞ  „€H–.Hi@²A>Ø 
+A1Øvƒjp ÔzĞN‚6p\WÀp€G@
+†ÁK0Şi‚ğ¢Aª¤™BÖZyCAP8ÅC‰’@ùĞ&¨*ƒª¡CP=ô#tº]ƒú Ğ 4ı}„˜ÓaØ ¶€Ù°;GÂËàDxœÀÛáJ¸>·Âáğ ,…_Â“@ÈÑFXñDBX$!k‘"¤©Eš¤¹H‘qä‡¡a˜Æã‡YŒábVaÖbJ0Õ˜c˜VLæ6f3ù‚¥bÕ±¦X'¬?v	6›-ÄV``[°—±Øaì;ÇÀâp~¸\2n5®·×Œ»€ëÃá&ñx¼*Şï‚Ásğb|!¾
+ßÆ¿'	Zk‚!– $l$Tçı„Â4Q¨Ot"†yÄ\b)±ØA¼I&N“I†$R$)™´TIj"]&=&½!“É:dGrY@^O®$Ÿ _%’?P”(&OJEBÙN9J¹@y@yC¥R¨nÔXª˜ºZO½D}J}/G“3—ó—ãÉ­“«‘k•ë—{%O”×—w—_.Ÿ'_!Jş¦ü¸QÁ@ÁS£°V¡Fá´Â=…IEš¢•bˆbšb‰bƒâ5ÅQ%¼’’·O©@é°Ò%¥!BÓ¥yÒ¸´M´:ÚeÚ0G7¤ûÓ“éÅôè½ô	e%e[å(ååå³ÊRÂ0`ø3R¥Œ“Œ»Œó4æ¹ÏãÏÛ6¯i^ÿ¼)•ù*n*|•"•f••ªLUoÕÕªmªOÔ0j&jajÙjûÕ.«Ï§ÏwÏ_4ÿäü‡ê°º‰z¸újõÃê=ê“š¾U—4Æ5šnšÉšåšç4Ç´hZµZåZçµ^0•™îÌTf%³‹9¡­®í§-Ñ>¤İ«=­c¨³Xg£N³Î]’.[7A·\·SwBOK/X/_¯Qï¡>QŸ­Ÿ¤¿G¿[ÊÀĞ Ú`‹A›Á¨¡Š¡¿aa£ác#ª‘«Ñ*£Z£;Æ8c¶qŠñ>ã[&°‰I’IÉMSØÔŞT`ºÏ´Ïkæh&4«5»Ç¢°ÜYY¬FÖ 9Ã<È|£y›ù+=‹X‹İ_,í,S-ë,Y)YXm´ê°úÃÚÄšk]c}Ç†jãc³Î¦İæµ­©-ßv¿í};š]°İ»N»Ïöö"û&û1=‡x‡½÷Øtv(»„}Õëèá¸ÎñŒã'{'±ÓI§ßYÎ)ÎÎ£ğÔ-rÑqá¸r‘.d.Œ_xp¡ÔUÛ•ãZëúÌM×çvÄmÄİØ=Ùı¸û+K‘G‹Ç”§“çÏ^ˆ—¯W‘W¯·’÷bïjï§>:>‰>>¾v¾«}/øaııvúİó×ğçú×ûO8¬	è
+¤FV>2	uÃÁÁ»‚/Ò_$\ÔBüCv…<	5]ús.,4¬&ìy¸Ux~xw-bEDCÄ»HÈÒÈG‹KwFÉGÅEÕGME{E—EK—X,Y³äFŒZŒ ¦={$vr©÷ÒİK‡ãìâ
+ãî.3\–³ìÚrµå©ËÏ®_ÁYq*ßÿ‰Â©åL®ô_¹wå×“»‡û’çÆ+çñ]øeü‘—„²„ÑD—Ä]‰cI®IIãOAµàu²_òä©””£)3©Ñ©Íi„´ø´ÓB%aŠ°+]3='½/Ã4£0CºÊiÕîU¢@Ñ‘L(sYf»˜şLõHŒ$›%ƒY³j²ŞgGeŸÊQÌæôäšänËÉóÉû~5f5wug¾vş†üÁ5îk­…Ö®\Û¹Nw]Áºáõ¾ëm mHÙğËFËeßnŠŞÔQ Q°¾`h³ïæÆB¹BQá½-Î[lÅllíİf³­jÛ—"^ÑõbËâŠâO%Ü’ëßY}WùİÌö„í½¥ö¥ûwàvwÜİéºóX™bY^ÙĞ®à]­åÌò¢ò·»Wì¾Va[q`id´2¨²½J¯jGÕ§ê¤êšæ½ê{·íÚÇÛ×¿ßmÓÅ>¼È÷Pk­AmÅaÜá¬ÃÏë¢êº¿g_DíHñ‘ÏG…G¥ÇÂuÕ;Ô×7¨7”6Â’Æ±ãqÇoıàõC{«éP3£¹ø8!9ñâÇøï<ÙyŠ}ªé'ıŸö¶ĞZŠZ¡ÖÜÖ‰¶¤6i{L{ßé€ÓÎ-?›ÿ|ôŒö™š³ÊgKÏ‘Îœ›9Ÿw~òBÆ…ñ‹‰‡:Wt>º´äÒ®°®ŞË—¯^ñ¹r©Û½ûüU—«g®9];}}½í†ıÖ»–_ì~iéµïm½ép³ı–ã­¾}çú]û/Şöº}åÿ‹úî.¾{ÿ^Ü=é}ŞıÑ©^?Ìz8ıhıcìã¢'
+O*ª?­ıÕø×f©½ôì ×`Ï³ˆg†¸C/ÿ•ù¯OÃÏ©Ï+F´FêG­GÏŒùŒİz±ôÅğËŒ—Óã…¿)ş¶÷•Ñ«Ÿ~wû½gbÉÄğkÑë™?JŞ¨¾9úÖömçdèäÓwiï¦§ŠŞ«¾?öı¡ûcôÇ‘éìOøO•Ÿ?w|	üòx&mfæß÷„óû
+endstream
+endobj
+1000 0 obj
+<< /BM /Multiply /Type /ExtGState >>
+endobj
+1001 0 obj
+<< /Type /XObject /Length 171 /FormType 1 /Resources 1002 0 R /Subtype /Form
+/Filter /FlateDecode /BBox [ 0 0 69.472 8.915889 ] >> stream
+xMO;Ã İ9Å;ƒÁ€™;tÎÔ ¶KZ©åşR!E$bàùÉ~ŸV|`Û‹™$9(eªß;nxc¹TF©°”ÕúìØÿ|pYµ`¹V6Ï¶!	)‹àÕ5É	³Û†¬’uâÁ”ÔsÒæ·Ï1QTÕ 3fCT
+j›ÁØ	§è˜§cÓøwp“¤˜¦‚i¡‡ÿ´9¨r¤9È­7'd¦ö©jÁëU CL
+endstream
+endobj
+1002 0 obj
+<< /ColorSpace << /Cs1 1003 0 R >> /ExtGState << /Gs1 1005 0 R >> /ProcSet
+[ /PDF ] >>
+endobj
+1003 0 obj
+[ /ICCBased 1004 0 R ]
+endobj
+1004 0 obj
+<< /Alternate /DeviceRGB /N 3 /Length 2612 /Filter /FlateDecode >> stream
+x–wTSÙ‡Ï½7½Ğ" %ôz	 Ò;HQ‰I€P†„&vDF)VdTÀG‡"cEƒ‚b×	òPÆÁQDEåİŒk	ï­5óŞšıÇYßÙç·×Ùgï}×º Pü‚ÂtX€4¡XîëÁ\ËÄ÷XÀáffGøDÔü½=™™¨HÆ³öî.€d»Û,¿P&sÖÿ‘"7C$ 
+EÕ6<~&å”S³Å2ÿÊô•)2†12¡	¢¬"ãÄ¯lö§æ+»É˜—&ä¡YÎ¼4Œ»PŞš%á£Œ¡\˜%àg£|e½TIš å÷(ÓÓøœL 0™_Ìç&¡l‰2Eî‰ò ”Ä9¼r‹ù9h x¦gäŠ‰Ib¦×˜iåèÈfúñ³Sùb1+”ÃMáˆxLÏô´0€¯o–E%Ym™h‘í­ííYÖæhù¿Ùß~Sı=ÈzûUñ&ìÏAŒYßlì¬/½ ö$Z›³¾•U ´m@åá¬Oï  ò ´Şœó†l^’Äâ'‹ììlsŸk.+è7ûŸ‚oÊ¿†9÷™ËîûV;¦?#I3eEå¦§¦KDÌÌ—Ïdı÷ÿãÀ9iÍÉÃ,œŸÀñ…èUQè”	„‰h»…<X.d
+„Õá6'~khu_ }…9P¸IÈo= C#$n?z}ë[1
+È¾¼h­‘¯s2zşçú\ŠnáLA"Sæödr%¢,£ß„lÁt 
+4.0,`€3pŞ  „€H–.Hi@²A>Ø 
+A1Øvƒjp ÔzĞN‚6p\WÀp€G@
+†ÁK0Şi‚ğ¢Aª¤™BÖZyCAP8ÅC‰’@ùĞ&¨*ƒª¡CP=ô#tº]ƒú Ğ 4ı}„˜ÓaØ ¶€Ù°;GÂËàDxœÀÛáJ¸>·Âáğ ,…_Â“@ÈÑFXñDBX$!k‘"¤©Eš¤¹H‘qä‡¡a˜Æã‡YŒábVaÖbJ0Õ˜c˜VLæ6f3ù‚¥bÕ±¦X'¬?v	6›-ÄV``[°—±Øaì;ÇÀâp~¸\2n5®·×Œ»€ëÃá&ñx¼*Şï‚Ásğb|!¾
+ßÆ¿'	Zk‚!– $l$Tçı„Â4Q¨Ot"†yÄ\b)±ØA¼I&N“I†$R$)™´TIj"]&=&½!“É:dGrY@^O®$Ÿ _%’?P”(&OJEBÙN9J¹@y@yC¥R¨nÔXª˜ºZO½D}J}/G“3—ó—ãÉ­“«‘k•ë—{%O”×—w—_.Ÿ'_!Jş¦ü¸QÁ@ÁS£°V¡Fá´Â=…IEš¢•bˆbšb‰bƒâ5ÅQ%¼’’·O©@é°Ò%¥!BÓ¥yÒ¸´M´:ÚeÚ0G7¤ûÓ“éÅôè½ô	e%e[å(ååå³ÊRÂ0`ø3R¥Œ“Œ»Œó4æ¹ÏãÏÛ6¯i^ÿ¼)•ù*n*|•"•f••ªLUoÕÕªmªOÔ0j&jajÙjûÕ.«Ï§ÏwÏ_4ÿäü‡ê°º‰z¸újõÃê=ê“š¾U—4Æ5šnšÉšåšç4Ç´hZµZåZçµ^0•™îÌTf%³‹9¡­®í§-Ñ>¤İ«=­c¨³Xg£N³Î]’.[7A·\·SwBOK/X/_¯Qï¡>QŸ­Ÿ¤¿G¿[ÊÀĞ Ú`‹A›Á¨¡Š¡¿aa£ác#ª‘«Ñ*£Z£;Æ8c¶qŠñ>ã[&°‰I’IÉMSØÔŞT`ºÏ´Ïkæh&4«5»Ç¢°ÜYY¬FÖ 9Ã<È|£y›ù+=‹X‹İ_,í,S-ë,Y)YXm´ê°úÃÚÄšk]c}Ç†jãc³Î¦İæµ­©-ßv¿í};š]°İ»N»Ïöö"û&û1=‡x‡½÷Øtv(»„}Õëèá¸ÎñŒã'{'±ÓI§ßYÎ)ÎÎ£ğÔ-rÑqá¸r‘.d.Œ_xp¡ÔUÛ•ãZëúÌM×çvÄmÄİØ=Ùı¸û+K‘G‹Ç”§“çÏ^ˆ—¯W‘W¯·’÷bïjï§>:>‰>>¾v¾«}/øaııvúİó×ğçú×ûO8¬	è
+¤FV>2	uÃÁÁ»‚/Ò_$\ÔBüCv…<	5]ús.,4¬&ìy¸Ux~xw-bEDCÄ»HÈÒÈG‹KwFÉGÅEÕGME{E—EK—X,Y³äFŒZŒ ¦={$vr©÷ÒİK‡ãìâ
+ãî.3\–³ìÚrµå©ËÏ®_ÁYq*ßÿ‰Â©åL®ô_¹wå×“»‡û’çÆ+çñ]øeü‘—„²„ÑD—Ä]‰cI®IIãOAµàu²_òä©””£)3©Ñ©Íi„´ø´ÓB%aŠ°+]3='½/Ã4£0CºÊiÕîU¢@Ñ‘L(sYf»˜şLõHŒ$›%ƒY³j²ŞgGeŸÊQÌæôäšänËÉóÉû~5f5wug¾vş†üÁ5îk­…Ö®\Û¹Nw]Áºáõ¾ëm mHÙğËFËeßnŠŞÔQ Q°¾`h³ïæÆB¹BQá½-Î[lÅllíİf³­jÛ—"^ÑõbËâŠâO%Ü’ëßY}WùİÌö„í½¥ö¥ûwàvwÜİéºóX™bY^ÙĞ®à]­åÌò¢ò·»Wì¾Va[q`id´2¨²½J¯jGÕ§ê¤êšæ½ê{·íÚÇÛ×¿ßmÓÅ>¼È÷Pk­AmÅaÜá¬ÃÏë¢êº¿g_DíHñ‘ÏG…G¥ÇÂuÕ;Ô×7¨7”6Â’Æ±ãqÇoıàõC{«éP3£¹ø8!9ñâÇøï<ÙyŠ}ªé'ıŸö¶ĞZŠZ¡ÖÜÖ‰¶¤6i{L{ßé€ÓÎ-?›ÿ|ôŒö™š³ÊgKÏ‘Îœ›9Ÿw~òBÆ…ñ‹‰‡:Wt>º´äÒ®°®ŞË—¯^ñ¹r©Û½ûüU—«g®9];}}½í†ıÖ»–_ì~iéµïm½ép³ı–ã­¾}çú]û/Şöº}åÿ‹úî.¾{ÿ^Ü=é}ŞıÑ©^?Ìz8ıhıcìã¢'
+O*ª?­ıÕø×f©½ôì ×`Ï³ˆg†¸C/ÿ•ù¯OÃÏ©Ï+F´FêG­GÏŒùŒİz±ôÅğËŒ—Óã…¿)ş¶÷•Ñ«Ÿ~wû½gbÉÄğkÑë™?JŞ¨¾9úÖömçdèäÓwiï¦§ŠŞ«¾?öı¡ûcôÇ‘éìOøO•Ÿ?w|	üòx&mfæß÷„óû
+endstream
+endobj
+1005 0 obj
+<< /BM /Multiply /Type /ExtGState >>
+endobj
+xref
+0 1
+0000000000 65535 f 
+4 1
+0001962071 00000 n 
+7 12
+0001962633 00000 n 
+0001963130 00000 n 
+0001963498 00000 n 
+0001964016 00000 n 
+0001964490 00000 n 
+0001980261 00000 n 
+0001981203 00000 n 
+0001981728 00000 n 
+0001982262 00000 n 
+0001982853 00000 n 
+0001983320 00000 n 
+0001983799 00000 n 
+850 1
+0001984133 00000 n 
+987 19
+0001984226 00000 n 
+0001984255 00000 n 
+0001984744 00000 n 
+0001985250 00000 n 
+0001985352 00000 n 
+0001985391 00000 n 
+0001988105 00000 n 
+0001988159 00000 n 
+0001988501 00000 n 
+0001988920 00000 n 
+0001989351 00000 n 
+0001989454 00000 n 
+0001989493 00000 n 
+0001992207 00000 n 
+0001992262 00000 n 
+0001992600 00000 n 
+0001992705 00000 n 
+0001992746 00000 n 
+0001995461 00000 n 
+trailer
+<< /ID [<1CAAC8860D6FDFCE61BD551E1CAD06AF><1B483CD74A65F8370638110DFC5B14F3> ] /Root 1 0 R /Size 1006 /Prev 1958862 /Info 4 0 R >> 
+startxref
+1995516
+%%EOF
